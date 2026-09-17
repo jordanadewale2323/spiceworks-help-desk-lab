@@ -45,7 +45,7 @@ The user reported that their speakers worked properly with applications such as 
 
 I created the ticket in Spiceworks and entered the user's reported problem, priority, category, organization, and contact information.
 
-![Spiceworks Ticket Creation]((https://kommodo.ai/i/sU6dO9epQHkd1JwntZ4e))
+![Spiceworks Ticket Creation]( https://github.com/jordanadewale2323/spiceworks-help-desk-lab/blob/97b121b3a61d6d7582e4e6d035635f03036e8dc7/Screenshot%202026-09-03%20014508.png))
 
 ## 2. Communication With Ticket Holder
 
@@ -53,7 +53,7 @@ I reviewed the user's request and documented the troubleshooting communication i
 
 I also documented the user's availability so troubleshooting could be coordinated appropriately.
 
-![Ticket Communication]((https://kommodo.ai/i/2Y4t16uog67arvgwGOcd))
+![Ticket Communication](https://github.com/jordanadewale2323/spiceworks-help-desk-lab/blob/553d531ed3bee6c37a825c006d2c2f70b64d3a4e/Screenshot%202026-09-03%20020511.png)
 
 ## 3. Troubleshooting and Resolution
 
@@ -67,7 +67,7 @@ The resolution was documented in the Spiceworks ticket:
 
 After resolving the issue, I closed the ticket in Spiceworks. The closed-ticket view confirms that the ticket was completed.
 
-![Closed Ticket]((https://kommodo.ai/i/JE9RkftvMIi9quUQiLh0))
+![Closed Ticket](https://github.com/jordanadewale2323/spiceworks-help-desk-lab/blob/ef1c89bcb880cfa476d3e476f7d3bdd555776b7c/Screenshot%202026-09-03%20020919.png)
 
 ### Result
 
@@ -112,7 +112,7 @@ I documented the escalation in Spiceworks and provided the receiving team with t
 - Requested permission: Read-only access
 - Reason: Requires a team member with the proper authority
 
-![Spiceworks Escalation](https://kommodo.ai/i/k8WzzV4uTK6uEqPJNOmV)
+![Spiceworks Escalation](https://github.com/jordanadewale2323/spiceworks-help-desk-lab/blob/b0b721a679cc5d7aaf5ef0fd81e4a28a63b2c42c/Screenshot%202026-09-03%20022644.png)
 
 ## 3. Communication
 
